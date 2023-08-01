@@ -1,0 +1,34 @@
+[
+    {
+        "id": "2023-06-22_41129",
+        "day": "2023-06-22",
+        "userId": "123456",
+        "userType": "0",
+        "username": "hahaha777",
+        "parentId": "1",
+        "parentName": "admin",
+        "abcBalance": "0.0000",
+        "abcUpdateTime": "1624901579",
+        "ggBalance": "0",
+        "ggUpdateTime": "null",
+        "balance": "0.0000",
+        "balanceTotal": "0.0000",
+        "lastUpdateTime": "1687449595"
+    },
+    {
+        "id": "2023-07-07_38342",
+        "day": "2023-07-07",
+        "userId": "38342",
+        "userType": "0",
+        "username": "nm987sl",
+        "parentId": "9995",
+        "parentName": "dddd",
+        "abcBalance": "0.4800",
+        "abcUpdateTime": "1629206939",
+        "ggBalance": "0",
+        "ggUpdateTime": "null",
+        "balance": "9.4877",
+        "balanceTotal": "9.9677",
+        "lastUpdateTime": "1688745595"
+    }
+]
